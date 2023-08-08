@@ -1,6 +1,7 @@
 #include "stm32f10x.h"                  // Device header
 #include "Delay.h"
 
+
 void Key_Init(void)
 {
 	RCC_APB2PeriphClockCmd(RCC_APB2Periph_GPIOD, ENABLE);
@@ -29,21 +30,6 @@ uint8_t Key_GetNum(void)
 {
 	uint16_t KeyNum = 0;
 	uint16_t temp=0;
-
-	// if (GPIO_ReadInputDataBit(GPIOD, GPIO_Pin_8) == 0)
-	// {
-	// 	Delay_ms(20);
-	// 	while (GPIO_ReadInputDataBit(GPIOD, GPIO_Pin_8) == 0);
-	// 	Delay_ms(20);
-	// 	KeyNum = 1;
-	// }
-	// if (GPIO_ReadInputDataBit(GPIOD, GPIO_Pin_9) == 0)
-	// {
-	// 	Delay_ms(20);
-	// 	while (GPIO_ReadInputDataBit(GPIOD, GPIO_Pin_9) == 0);
-	// 	Delay_ms(20);
-	// 	KeyNum = 2;
-	// }
 
 	/*************Scan  1st  Line************************/
 	// GPIOD->ODR=0X00;
@@ -145,40 +131,40 @@ uint8_t Key_GetNum(void)
 
 			// ********************************
 			// two keys in this row are pressed at the same time
-			case 0xFCFD: KeyNum = 101; break;	// 1111 1100
-			case 0xFAFD: KeyNum = 102; break;	// 1111 1010
-			case 0xF6FD: KeyNum = 103; break;	// 1111 0110
-			case 0xEEFD: KeyNum = 104; break;	// 1110 1110
-			case 0xDEFD: KeyNum = 105; break;	// 1101 1110
-			case 0xBEFD: KeyNum = 106; break;	// 1011 1110
-			case 0x7EFD: KeyNum = 107; break;	// 0111 1110
+			// case 0xFCFD: KeyNum = 101; break;	// 1111 1100
+			// case 0xFAFD: KeyNum = 102; break;	// 1111 1010
+			// case 0xF6FD: KeyNum = 103; break;	// 1111 0110
+			// case 0xEEFD: KeyNum = 104; break;	// 1110 1110
+			// case 0xDEFD: KeyNum = 105; break;	// 1101 1110
+			// case 0xBEFD: KeyNum = 106; break;	// 1011 1110
+			// case 0x7EFD: KeyNum = 107; break;	// 0111 1110
 
-			case 0xF9FD: KeyNum = 108; break;	// 1111 1001
-			case 0xF5FD: KeyNum = 109; break;	// 1111 0101
-			case 0xEDFD: KeyNum = 110; break;	// 1110 1101
-			case 0xDDFD: KeyNum = 111; break;	// 1101 1101
-			case 0xBDFD: KeyNum = 112; break;	// 1011 1101
-			case 0x7DFD: KeyNum = 113; break;	// 0111 1101
+			// case 0xF9FD: KeyNum = 108; break;	// 1111 1001
+			// case 0xF5FD: KeyNum = 109; break;	// 1111 0101
+			// case 0xEDFD: KeyNum = 110; break;	// 1110 1101
+			// case 0xDDFD: KeyNum = 111; break;	// 1101 1101
+			// case 0xBDFD: KeyNum = 112; break;	// 1011 1101
+			// case 0x7DFD: KeyNum = 113; break;	// 0111 1101
 
-			case 0xF3FD: KeyNum = 114; break;	// 1111 0011
-			case 0xEBFD: KeyNum = 115; break;	// 1110 1011
-			case 0xDBFD: KeyNum = 116; break;	// 1101 1011
-			case 0xBBFD: KeyNum = 117; break;	// 1011 1011
-			case 0x7BFD: KeyNum = 118; break;	// 0111 1011
+			// case 0xF3FD: KeyNum = 114; break;	// 1111 0011
+			// case 0xEBFD: KeyNum = 115; break;	// 1110 1011
+			// case 0xDBFD: KeyNum = 116; break;	// 1101 1011
+			// case 0xBBFD: KeyNum = 117; break;	// 1011 1011
+			// case 0x7BFD: KeyNum = 118; break;	// 0111 1011
 
-			case 0xE7FD: KeyNum = 119; break;	// 1110 0111
-			case 0xD7FD: KeyNum = 120; break;	// 1101 0111
-			case 0xB7FD: KeyNum = 121; break;	// 1011 0111
-			case 0x77FD: KeyNum = 122; break;	// 0111 0111
+			// case 0xE7FD: KeyNum = 119; break;	// 1110 0111
+			// case 0xD7FD: KeyNum = 120; break;	// 1101 0111
+			// case 0xB7FD: KeyNum = 121; break;	// 1011 0111
+			// case 0x77FD: KeyNum = 122; break;	// 0111 0111
 			
-			case 0xCFFD: KeyNum = 123; break;	// 1100 1111
-			case 0xAFFD: KeyNum = 124; break;	// 1010 1111
-			case 0x6FFD: KeyNum = 125; break;	// 0110 1111
+			// case 0xCFFD: KeyNum = 123; break;	// 1100 1111
+			// case 0xAFFD: KeyNum = 124; break;	// 1010 1111
+			// case 0x6FFD: KeyNum = 125; break;	// 0110 1111
 
-			case 0x9FFD: KeyNum = 126; break;	// 1010 1111
-			case 0x5FFD: KeyNum = 127; break;	// 0110 1111
+			// case 0x9FFD: KeyNum = 126; break;	// 1010 1111
+			// case 0x5FFD: KeyNum = 127; break;	// 0110 1111
 
-			case 0x3FFD: KeyNum = 128; break;	// 1010 1111
+			// case 0x3FFD: KeyNum = 128; break;	// 1010 1111
 			default: KeyNum = 0; break;
 			}
 		}

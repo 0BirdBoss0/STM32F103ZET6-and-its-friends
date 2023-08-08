@@ -4,12 +4,37 @@
   "dependenceList": [],
   "srcDirs": [
     ".eide/deps",
-    "Hardware"
+    "Hardware",
+    "System"
   ],
   "virtualFolder": {
     "name": "<virtual_root>",
     "files": [],
     "folders": [
+      {
+        "name": "Source Group 1",
+        "files": [
+          {
+            "path": "Start/core_cm3.c"
+          },
+          {
+            "path": "Start/core_cm3.h"
+          },
+          {
+            "path": "Start/stm32f10x.h"
+          },
+          {
+            "path": "Start/system_stm32f10x.c"
+          },
+          {
+            "path": "Start/system_stm32f10x.h"
+          },
+          {
+            "path": "Start/startup_stm32f10x_hd.s"
+          }
+        ],
+        "folders": []
+      },
       {
         "name": "Library",
         "files": [
@@ -155,30 +180,6 @@
         "folders": []
       },
       {
-        "name": "Source Group 1",
-        "files": [
-          {
-            "path": "Start/core_cm3.c"
-          },
-          {
-            "path": "Start/core_cm3.h"
-          },
-          {
-            "path": "Start/startup_stm32f10x_md.s"
-          },
-          {
-            "path": "Start/stm32f10x.h"
-          },
-          {
-            "path": "Start/system_stm32f10x.c"
-          },
-          {
-            "path": "Start/system_stm32f10x.h"
-          }
-        ],
-        "folders": []
-      },
-      {
         "name": "User",
         "files": [
           {
@@ -192,6 +193,63 @@
           },
           {
             "path": "User/stm32f10x_it.h"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "Hardware",
+        "files": [
+          {
+            "path": "Hardware/Key.c"
+          },
+          {
+            "path": "Hardware/Key.h"
+          },
+          {
+            "path": "Hardware/LED.c"
+          },
+          {
+            "path": "Hardware/LED.h"
+          },
+          {
+            "path": "Hardware/SevenSeg.h"
+          },
+          {
+            "path": "Hardware/SevenSeg.c"
+          },
+          {
+            "path": "Hardware/OLED.c"
+          },
+          {
+            "path": "Hardware/OLED.h"
+          },
+          {
+            "path": "Hardware/OLED_Font.h"
+          },
+          {
+            "path": "Hardware/Serial.c"
+          },
+          {
+            "path": "Hardware/Serial.h"
+          }
+        ],
+        "folders": []
+      },
+      {
+        "name": "System",
+        "files": [
+          {
+            "path": "System/Delay.c"
+          },
+          {
+            "path": "System/Delay.h"
+          },
+          {
+            "path": "System/Timer.c"
+          },
+          {
+            "path": "System/Timer.h"
           }
         ],
         "folders": []
@@ -336,16 +394,16 @@
       "uploadConfigMap": {},
       "custom_dep": {
         "name": "default",
+        "sourceDirList": [],
+        "libList": [],
         "incList": [
           "Start",
           "User",
           "Library",
-          ".cmsis/include",
-          "RTE/_Target 1",
-          ".eide/deps"
+          "System",
+          "Hardware",
+          "RTE/_Target 1"
         ],
-        "libList": [],
-        "sourceDirList": [],
         "defineList": [
           "USE_STDPERIPH_DRIVER"
         ]

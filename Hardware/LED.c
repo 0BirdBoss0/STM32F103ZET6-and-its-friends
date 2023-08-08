@@ -6,10 +6,18 @@ void LED_Init(void)
 
 	GPIO_InitTypeDef GPIO_InitStructure;
 	GPIO_InitStructure.GPIO_Mode = GPIO_Mode_Out_PP;
-	GPIO_InitStructure.GPIO_Pin = GPIO_Pin_8 | GPIO_Pin_9 | GPIO_Pin_10;
+	GPIO_InitStructure.GPIO_Pin = GPIO_Pin_0 | GPIO_Pin_1 | GPIO_Pin_2 | GPIO_Pin_3 | GPIO_Pin_4 | GPIO_Pin_5 | GPIO_Pin_6 | GPIO_Pin_7 | GPIO_Pin_8 | GPIO_Pin_9 | GPIO_Pin_10;
 	GPIO_InitStructure.GPIO_Speed = GPIO_Speed_50MHz;
 
 	GPIO_Init(GPIOF, &GPIO_InitStructure);
+	GPIO_SetBits(GPIOF, GPIO_Pin_0);
+	GPIO_SetBits(GPIOF, GPIO_Pin_1);
+	GPIO_SetBits(GPIOF, GPIO_Pin_2);
+	GPIO_SetBits(GPIOF, GPIO_Pin_3);
+	GPIO_SetBits(GPIOF, GPIO_Pin_4);
+	GPIO_SetBits(GPIOF, GPIO_Pin_5);
+	GPIO_SetBits(GPIOF, GPIO_Pin_6);
+	GPIO_SetBits(GPIOF, GPIO_Pin_7);
 	GPIO_SetBits(GPIOF, GPIO_Pin_8);
 	GPIO_SetBits(GPIOF, GPIO_Pin_9);
 	GPIO_SetBits(GPIOF, GPIO_Pin_10);

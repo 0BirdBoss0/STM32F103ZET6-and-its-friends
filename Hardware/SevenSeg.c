@@ -52,17 +52,17 @@ void HC595_Send_Byte(unsigned char byte)
 			GPIO_WriteBit(GPIOC, GPIO_Pin_3, Bit_RESET);
 		
 		GPIO_WriteBit(GPIOC, GPIO_Pin_2, Bit_RESET);
-		Delay_us(10);
+		//Delay_us(5);
 		GPIO_WriteBit(GPIOC, GPIO_Pin_2, Bit_SET);
-		Delay_us(10);
+		//Delay_us(5);
 		
 		byte <<= 1;
 	}
 	
 	GPIO_WriteBit(GPIOC, GPIO_Pin_1, Bit_RESET);
-	Delay_us(10);
+	//Delay_us(5);
 	GPIO_WriteBit(GPIOC, GPIO_Pin_1, Bit_SET);
-	Delay_us(10);
+	//Delay_us(5);
 }
 
 
