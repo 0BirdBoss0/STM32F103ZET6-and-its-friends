@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3V3UP Pin=J4-57
+Removed Pin From Net: NetName=3V3UP Pin=J4-58
+Removed Pin From Net: NetName=5VUP Pin=J4-59
+Removed Pin From Net: NetName=5VUP Pin=J4-60
+Removed Pin From Net: NetName=3V3DOWN Pin=J5-57
+Removed Pin From Net: NetName=3V3DOWN Pin=J5-58
+Removed Pin From Net: NetName=5VDOWN Pin=J5-59
+Removed Pin From Net: NetName=5VDOWN Pin=J5-60
+Added Pin To Net: NetName=3V3DOWN Pin=J4-57
+Added Pin To Net: NetName=3V3DOWN Pin=J4-58
+Added Pin To Net: NetName=5VDOWN Pin=J4-59
+Added Pin To Net: NetName=5VDOWN Pin=J4-60
+Added Pin To Net: NetName=3V3UP Pin=J5-57
+Added Pin To Net: NetName=3V3UP Pin=J5-58
+Added Pin To Net: NetName=5VUP Pin=J5-59
+Added Pin To Net: NetName=5VUP Pin=J5-60

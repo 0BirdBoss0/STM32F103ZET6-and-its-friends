@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-1
+Removed Pin From Net: NetName=3V3 Pin=J5-57
+Removed Pin From Net: NetName=3V3 Pin=J5-58
+Removed Pin From Net: NetName=5V Pin=J5-59
+Removed Pin From Net: NetName=5V Pin=J5-60
+Removed Pin From Net: NetName=3V3 Pin=R1-2
+Removed Pin From Net: NetName=5V Pin=R6-2
+Removed Pin From Net: NetName=3V3 Pin=R14-1
+Removed Pin From Net: NetName=3V3 Pin=U3-8
+Change Net Name : Old Net Name=3V3 New Net Name=3V3UP
+Change Net Name : Old Net Name=5V New Net Name=5VUP
+Added Pin To Net: NetName=3V3DOWN Pin=C1-1
+Added Pin To Net: NetName=3V3DOWN Pin=J5-57
+Added Pin To Net: NetName=3V3DOWN Pin=J5-58
+Added Pin To Net: NetName=3V3DOWN Pin=R1-2
+Added Pin To Net: NetName=3V3DOWN Pin=R14-1
+Added Pin To Net: NetName=3V3DOWN Pin=U3-8
+Added Net: Name=3V3DOWN
+Added Pin To Net: NetName=5VDOWN Pin=J5-59
+Added Pin To Net: NetName=5VDOWN Pin=J5-60
+Added Pin To Net: NetName=5VDOWN Pin=R6-2
+Added Net: Name=5VDOWN

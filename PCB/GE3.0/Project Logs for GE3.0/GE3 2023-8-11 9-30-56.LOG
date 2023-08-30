@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=SEGLED1D Pin=R4-5
+Removed Pin From Net: NetName=SEGLED1C Pin=R4-6
+Removed Pin From Net: NetName=SEGLED1B Pin=R4-7
+Removed Pin From Net: NetName=SEGLED1A Pin=R4-8
+Removed Pin From Net: NetName=NetR4_2 Pin=U1-1
+Removed Pin From Net: NetName=NetR4_3 Pin=U1-2
+Removed Pin From Net: NetName=NetR4_4 Pin=U1-3
+Removed Pin From Net: NetName=NetR4_1 Pin=U1-15
+Added Pin To Net: NetName=SEGLED1A Pin=R4-5
+Added Pin To Net: NetName=SEGLED1B Pin=R4-6
+Added Pin To Net: NetName=SEGLED1C Pin=R4-7
+Added Pin To Net: NetName=SEGLED1D Pin=R4-8
+Added Pin To Net: NetName=NetR4_3 Pin=U1-1
+Added Pin To Net: NetName=NetR4_2 Pin=U1-2
+Added Pin To Net: NetName=NetR4_1 Pin=U1-3
+Added Pin To Net: NetName=NetR4_4 Pin=U1-15

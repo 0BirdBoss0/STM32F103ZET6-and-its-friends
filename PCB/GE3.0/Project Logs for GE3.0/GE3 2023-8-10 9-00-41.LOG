@@ -1,0 +1,749 @@
+Added Component: Designator=*1(SM410561N)
+Added Component: Designator=*2(SM410561N)
+Added Component: Designator=*3(SM410561N)
+Added Component: Designator=C1(0805C)
+Added Component: Designator=D1(SOD-123_L2.8-W1.8-LS3.7-RD)
+Added Component: Designator=J1(TRML2P)
+Added Component: Designator=J2(HDR1X4)
+Added Component: Designator=J3(HDR1X16)
+Added Component: Designator=J4(HDR2x30)
+Added Component: Designator=J5(HDR2x30)
+Added Component: Designator=K1(RELAY-TH_HF46F-5-HS1T)
+Added Component: Designator=LED1(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED5(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED6(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED7(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED8(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED9(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED10(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED11(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED12(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED13(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED14(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED15(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED16(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED17(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED18(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=LED19(LED0603-RD_RED)
+Add component (AddParameter): Name = "Add into BOM"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Convert to PCB"; Value = "yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet"; Value = "https://atta.szlcsc.com/upload/public/pdf/source/20200820/C84263_DABC6A75E58F576973B407FDBA283D60.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "NCD0603R1_C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Emitted Color"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "JLCPCB Part Class"; Value = "Extended Part"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Name"; Value = "ºìµÆ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "¹úÐÇ¹âµç"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Name"; Value = "NCD0603R1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Footprint"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part"; Value = "C84263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Symbol"; Value = "FC-DA1608HRK-620D"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR)
+Added Component: Designator=R1(0603R)
+Added Component: Designator=R2(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=R3(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=R4(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=R5(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=R6(0603R)
+Added Component: Designator=R7(0603R)
+Added Component: Designator=R8(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=R9(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=R10(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=R11(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=R12(0603R)
+Added Component: Designator=R13(0603R)
+Added Component: Designator=R14(0603R)
+Added Component: Designator=R15(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=R16(RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL)
+Added Component: Designator=U1(FP-SOT109-1-IPC_C)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U2(FP-SOT109-1-IPC_C)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SP3485)
+Added Component: Designator=U4(FP-SOT109-1-IPC_C)
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1_485-A Pin=R13-2
+Added Pin To Net: NetName=1_485-A Pin=R14-2
+Added Pin To Net: NetName=1_485-A Pin=U3-6
+Added Net: Name=1_485-A
+Added Pin To Net: NetName=1_485-B Pin=R12-1
+Added Pin To Net: NetName=1_485-B Pin=R13-1
+Added Pin To Net: NetName=1_485-B Pin=U3-7
+Added Net: Name=1_485-B
+Added Pin To Net: NetName=3V3 Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=J2-2
+Added Pin To Net: NetName=3V3 Pin=J4-57
+Added Pin To Net: NetName=3V3 Pin=J4-58
+Added Pin To Net: NetName=3V3 Pin=J5-57
+Added Pin To Net: NetName=3V3 Pin=J5-58
+Added Pin To Net: NetName=3V3 Pin=R1-2
+Added Pin To Net: NetName=3V3 Pin=R2-5
+Added Pin To Net: NetName=3V3 Pin=R2-6
+Added Pin To Net: NetName=3V3 Pin=R2-7
+Added Pin To Net: NetName=3V3 Pin=R2-8
+Added Pin To Net: NetName=3V3 Pin=R3-5
+Added Pin To Net: NetName=3V3 Pin=R3-6
+Added Pin To Net: NetName=3V3 Pin=R3-7
+Added Pin To Net: NetName=3V3 Pin=R3-8
+Added Pin To Net: NetName=3V3 Pin=R8-5
+Added Pin To Net: NetName=3V3 Pin=R8-6
+Added Pin To Net: NetName=3V3 Pin=R8-7
+Added Pin To Net: NetName=3V3 Pin=R8-8
+Added Pin To Net: NetName=3V3 Pin=R9-5
+Added Pin To Net: NetName=3V3 Pin=R9-6
+Added Pin To Net: NetName=3V3 Pin=R9-7
+Added Pin To Net: NetName=3V3 Pin=R9-8
+Added Pin To Net: NetName=3V3 Pin=R14-1
+Added Pin To Net: NetName=3V3 Pin=U3-8
+Added Net: Name=3V3
+Added Pin To Net: NetName=5V Pin=D1-1
+Added Pin To Net: NetName=5V Pin=J4-59
+Added Pin To Net: NetName=5V Pin=J4-60
+Added Pin To Net: NetName=5V Pin=J5-59
+Added Pin To Net: NetName=5V Pin=J5-60
+Added Pin To Net: NetName=5V Pin=K1-1
+Added Pin To Net: NetName=5V Pin=R6-2
+Added Pin To Net: NetName=5V Pin=U1-10
+Added Pin To Net: NetName=5V Pin=U1-16
+Added Pin To Net: NetName=5V Pin=U2-10
+Added Pin To Net: NetName=5V Pin=U2-16
+Added Pin To Net: NetName=5V Pin=U4-10
+Added Pin To Net: NetName=5V Pin=U4-16
+Added Net: Name=5V
+Added Pin To Net: NetName=GND Pin=*1-3
+Added Pin To Net: NetName=GND Pin=*1-8
+Added Pin To Net: NetName=GND Pin=*2-3
+Added Pin To Net: NetName=GND Pin=*2-8
+Added Pin To Net: NetName=GND Pin=*3-3
+Added Pin To Net: NetName=GND Pin=*3-8
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-27
+Added Pin To Net: NetName=GND Pin=J4-28
+Added Pin To Net: NetName=GND Pin=J4-45
+Added Pin To Net: NetName=GND Pin=J4-46
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=GND Pin=J5-2
+Added Pin To Net: NetName=GND Pin=J5-17
+Added Pin To Net: NetName=GND Pin=J5-18
+Added Pin To Net: NetName=GND Pin=J5-41
+Added Pin To Net: NetName=GND Pin=J5-42
+Added Pin To Net: NetName=GND Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED10-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=GND Pin=U2-13
+Added Pin To Net: NetName=GND Pin=U3-5
+Added Pin To Net: NetName=GND Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=K1-6
+Added Pin To Net: NetName=NetD1_2 Pin=R7-2
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=K1-3
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=K1-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetLED1_2 Pin=LED1-2
+Added Pin To Net: NetName=NetLED1_2 Pin=R1-1
+Added Net: Name=NetLED1_2
+Added Pin To Net: NetName=NetLED2_2 Pin=LED2-2
+Added Pin To Net: NetName=NetLED2_2 Pin=R2-1
+Added Net: Name=NetLED2_2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R2-2
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetLED4_2 Pin=LED4-2
+Added Pin To Net: NetName=NetLED4_2 Pin=R2-3
+Added Net: Name=NetLED4_2
+Added Pin To Net: NetName=NetLED5_2 Pin=LED5-2
+Added Pin To Net: NetName=NetLED5_2 Pin=R2-4
+Added Net: Name=NetLED5_2
+Added Pin To Net: NetName=NetLED6_2 Pin=LED6-2
+Added Pin To Net: NetName=NetLED6_2 Pin=R3-1
+Added Net: Name=NetLED6_2
+Added Pin To Net: NetName=NetLED7_2 Pin=LED7-2
+Added Pin To Net: NetName=NetLED7_2 Pin=R3-2
+Added Net: Name=NetLED7_2
+Added Pin To Net: NetName=NetLED8_2 Pin=LED8-2
+Added Pin To Net: NetName=NetLED8_2 Pin=R3-3
+Added Net: Name=NetLED8_2
+Added Pin To Net: NetName=NetLED9_2 Pin=LED9-2
+Added Pin To Net: NetName=NetLED9_2 Pin=R3-4
+Added Net: Name=NetLED9_2
+Added Pin To Net: NetName=NetLED10_2 Pin=LED10-2
+Added Pin To Net: NetName=NetLED10_2 Pin=R6-1
+Added Net: Name=NetLED10_2
+Added Pin To Net: NetName=NetLED11_1 Pin=LED11-1
+Added Pin To Net: NetName=NetLED11_1 Pin=Q1-2
+Added Net: Name=NetLED11_1
+Added Pin To Net: NetName=NetLED11_2 Pin=LED11-2
+Added Pin To Net: NetName=NetLED11_2 Pin=R7-1
+Added Net: Name=NetLED11_2
+Added Pin To Net: NetName=NetLED12_2 Pin=LED12-2
+Added Pin To Net: NetName=NetLED12_2 Pin=R8-1
+Added Net: Name=NetLED12_2
+Added Pin To Net: NetName=NetLED13_2 Pin=LED13-2
+Added Pin To Net: NetName=NetLED13_2 Pin=R8-2
+Added Net: Name=NetLED13_2
+Added Pin To Net: NetName=NetLED14_2 Pin=LED14-2
+Added Pin To Net: NetName=NetLED14_2 Pin=R8-3
+Added Net: Name=NetLED14_2
+Added Pin To Net: NetName=NetLED15_2 Pin=LED15-2
+Added Pin To Net: NetName=NetLED15_2 Pin=R8-4
+Added Net: Name=NetLED15_2
+Added Pin To Net: NetName=NetLED16_2 Pin=LED16-2
+Added Pin To Net: NetName=NetLED16_2 Pin=R9-1
+Added Net: Name=NetLED16_2
+Added Pin To Net: NetName=NetLED17_2 Pin=LED17-2
+Added Pin To Net: NetName=NetLED17_2 Pin=R9-2
+Added Net: Name=NetLED17_2
+Added Pin To Net: NetName=NetLED18_2 Pin=LED18-2
+Added Pin To Net: NetName=NetLED18_2 Pin=R9-3
+Added Net: Name=NetLED18_2
+Added Pin To Net: NetName=NetLED19_2 Pin=LED19-2
+Added Pin To Net: NetName=NetLED19_2 Pin=R9-4
+Added Net: Name=NetLED19_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U1-15
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U1-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR4_3 Pin=R4-3
+Added Pin To Net: NetName=NetR4_3 Pin=U1-2
+Added Net: Name=NetR4_3
+Added Pin To Net: NetName=NetR4_4 Pin=R4-4
+Added Pin To Net: NetName=NetR4_4 Pin=U1-3
+Added Net: Name=NetR4_4
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-4
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U1-5
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR5_3 Pin=R5-3
+Added Pin To Net: NetName=NetR5_3 Pin=U1-6
+Added Net: Name=NetR5_3
+Added Pin To Net: NetName=NetR5_4 Pin=R5-4
+Added Pin To Net: NetName=NetR5_4 Pin=U1-7
+Added Net: Name=NetR5_4
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=NetR10_1 Pin=U2-15
+Added Net: Name=NetR10_1
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U2-1
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR10_3 Pin=R10-3
+Added Pin To Net: NetName=NetR10_3 Pin=U2-2
+Added Net: Name=NetR10_3
+Added Pin To Net: NetName=NetR10_4 Pin=R10-4
+Added Pin To Net: NetName=NetR10_4 Pin=U2-3
+Added Net: Name=NetR10_4
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U2-4
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-5
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR11_3 Pin=R11-3
+Added Pin To Net: NetName=NetR11_3 Pin=U2-6
+Added Net: Name=NetR11_3
+Added Pin To Net: NetName=NetR11_4 Pin=R11-4
+Added Pin To Net: NetName=NetR11_4 Pin=U2-7
+Added Net: Name=NetR11_4
+Added Pin To Net: NetName=NetR15_1 Pin=R15-1
+Added Pin To Net: NetName=NetR15_1 Pin=U4-15
+Added Net: Name=NetR15_1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR15_2 Pin=U4-1
+Added Net: Name=NetR15_2
+Added Pin To Net: NetName=NetR15_3 Pin=R15-3
+Added Pin To Net: NetName=NetR15_3 Pin=U4-2
+Added Net: Name=NetR15_3
+Added Pin To Net: NetName=NetR15_4 Pin=R15-4
+Added Pin To Net: NetName=NetR15_4 Pin=U4-3
+Added Net: Name=NetR15_4
+Added Pin To Net: NetName=NetR16_1 Pin=R16-1
+Added Pin To Net: NetName=NetR16_1 Pin=U4-4
+Added Net: Name=NetR16_1
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR16_2 Pin=U4-5
+Added Net: Name=NetR16_2
+Added Pin To Net: NetName=NetR16_3 Pin=R16-3
+Added Pin To Net: NetName=NetR16_3 Pin=U4-6
+Added Net: Name=NetR16_3
+Added Pin To Net: NetName=NetR16_4 Pin=R16-4
+Added Pin To Net: NetName=NetR16_4 Pin=U4-7
+Added Net: Name=NetR16_4
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Pin To Net: NetName=NetU1_9 Pin=U2-14
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU2_9 Pin=U2-9
+Added Pin To Net: NetName=NetU2_9 Pin=U4-14
+Added Net: Name=NetU2_9
+Added Pin To Net: NetName=PA2 Pin=J5-10
+Added Pin To Net: NetName=PA2 Pin=U3-4
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=J5-11
+Added Pin To Net: NetName=PA3 Pin=U3-1
+Added Net: Name=PA3
+Added Pin To Net: NetName=PB10 Pin=J2-3
+Added Pin To Net: NetName=PB10 Pin=J5-35
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=J2-4
+Added Pin To Net: NetName=PB11 Pin=J5-36
+Added Net: Name=PB11
+Added Pin To Net: NetName=PC0 Pin=J5-4
+Added Pin To Net: NetName=PC0 Pin=Q1-1
+Added Net: Name=PC0
+Added Pin To Net: NetName=PC1 Pin=J5-5
+Added Pin To Net: NetName=PC1 Pin=U1-12
+Added Pin To Net: NetName=PC1 Pin=U2-12
+Added Pin To Net: NetName=PC1 Pin=U4-12
+Added Net: Name=PC1
+Added Pin To Net: NetName=PC2 Pin=J5-6
+Added Pin To Net: NetName=PC2 Pin=U1-11
+Added Pin To Net: NetName=PC2 Pin=U2-11
+Added Pin To Net: NetName=PC2 Pin=U4-11
+Added Net: Name=PC2
+Added Pin To Net: NetName=PC3 Pin=J5-7
+Added Pin To Net: NetName=PC3 Pin=U1-14
+Added Net: Name=PC3
+Added Pin To Net: NetName=PD0 Pin=J3-1
+Added Pin To Net: NetName=PD0 Pin=J4-44
+Added Net: Name=PD0
+Added Pin To Net: NetName=PD1 Pin=J3-2
+Added Pin To Net: NetName=PD1 Pin=J4-43
+Added Net: Name=PD1
+Added Pin To Net: NetName=PD2 Pin=J3-3
+Added Pin To Net: NetName=PD2 Pin=J4-42
+Added Net: Name=PD2
+Added Pin To Net: NetName=PD3 Pin=J3-4
+Added Pin To Net: NetName=PD3 Pin=J4-41
+Added Net: Name=PD3
+Added Pin To Net: NetName=PD4 Pin=J3-5
+Added Pin To Net: NetName=PD4 Pin=J4-40
+Added Net: Name=PD4
+Added Pin To Net: NetName=PD5 Pin=J3-6
+Added Pin To Net: NetName=PD5 Pin=J4-39
+Added Net: Name=PD5
+Added Pin To Net: NetName=PD6 Pin=J3-7
+Added Pin To Net: NetName=PD6 Pin=J4-38
+Added Net: Name=PD6
+Added Pin To Net: NetName=PD7 Pin=J3-8
+Added Pin To Net: NetName=PD7 Pin=J4-37
+Added Net: Name=PD7
+Added Pin To Net: NetName=PD8 Pin=J3-9
+Added Pin To Net: NetName=PD8 Pin=J5-43
+Added Net: Name=PD8
+Added Pin To Net: NetName=PD9 Pin=J3-10
+Added Pin To Net: NetName=PD9 Pin=J5-44
+Added Net: Name=PD9
+Added Pin To Net: NetName=PD10 Pin=J3-11
+Added Pin To Net: NetName=PD10 Pin=J5-45
+Added Net: Name=PD10
+Added Pin To Net: NetName=PD11 Pin=J3-12
+Added Pin To Net: NetName=PD11 Pin=J5-46
+Added Net: Name=PD11
+Added Pin To Net: NetName=PD12 Pin=J3-13
+Added Pin To Net: NetName=PD12 Pin=J5-47
+Added Net: Name=PD12
+Added Pin To Net: NetName=PD13 Pin=J3-14
+Added Pin To Net: NetName=PD13 Pin=J5-48
+Added Net: Name=PD13
+Added Pin To Net: NetName=PD14 Pin=J3-15
+Added Pin To Net: NetName=PD14 Pin=J5-49
+Added Net: Name=PD14
+Added Pin To Net: NetName=PD15 Pin=J3-16
+Added Pin To Net: NetName=PD15 Pin=J5-50
+Added Net: Name=PD15
+Added Pin To Net: NetName=PE0 Pin=J4-21
+Added Pin To Net: NetName=PE0 Pin=LED2-1
+Added Net: Name=PE0
+Added Pin To Net: NetName=PE1 Pin=J4-20
+Added Pin To Net: NetName=PE1 Pin=LED3-1
+Added Net: Name=PE1
+Added Pin To Net: NetName=PE2 Pin=J4-19
+Added Pin To Net: NetName=PE2 Pin=LED4-1
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE3 Pin=J4-18
+Added Pin To Net: NetName=PE3 Pin=LED5-1
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=J4-17
+Added Pin To Net: NetName=PE4 Pin=LED6-1
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=J4-16
+Added Pin To Net: NetName=PE5 Pin=LED7-1
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=J4-15
+Added Pin To Net: NetName=PE6 Pin=LED8-1
+Added Net: Name=PE6
+Added Pin To Net: NetName=PE7 Pin=J5-26
+Added Pin To Net: NetName=PE7 Pin=LED9-1
+Added Net: Name=PE7
+Added Pin To Net: NetName=PE8 Pin=J5-27
+Added Pin To Net: NetName=PE8 Pin=LED12-1
+Added Net: Name=PE8
+Added Pin To Net: NetName=PE9 Pin=J5-28
+Added Pin To Net: NetName=PE9 Pin=LED13-1
+Added Net: Name=PE9
+Added Pin To Net: NetName=PE10 Pin=J5-29
+Added Pin To Net: NetName=PE10 Pin=LED14-1
+Added Net: Name=PE10
+Added Pin To Net: NetName=PE11 Pin=J5-30
+Added Pin To Net: NetName=PE11 Pin=LED15-1
+Added Net: Name=PE11
+Added Pin To Net: NetName=PE12 Pin=J5-31
+Added Pin To Net: NetName=PE12 Pin=LED16-1
+Added Net: Name=PE12
+Added Pin To Net: NetName=PE13 Pin=J5-32
+Added Pin To Net: NetName=PE13 Pin=LED17-1
+Added Net: Name=PE13
+Added Pin To Net: NetName=PE14 Pin=J5-33
+Added Pin To Net: NetName=PE14 Pin=LED18-1
+Added Net: Name=PE14
+Added Pin To Net: NetName=PE15 Pin=J5-34
+Added Pin To Net: NetName=PE15 Pin=LED19-1
+Added Net: Name=PE15
+Added Pin To Net: NetName=PG3 Pin=J5-52
+Added Pin To Net: NetName=PG3 Pin=U3-2
+Added Pin To Net: NetName=PG3 Pin=U3-3
+Added Net: Name=PG3
+Added Pin To Net: NetName=SEGLED1A Pin=*1-7
+Added Pin To Net: NetName=SEGLED1A Pin=R4-8
+Added Net: Name=SEGLED1A
+Added Pin To Net: NetName=SEGLED1B Pin=*1-6
+Added Pin To Net: NetName=SEGLED1B Pin=R4-7
+Added Net: Name=SEGLED1B
+Added Pin To Net: NetName=SEGLED1C Pin=*1-4
+Added Pin To Net: NetName=SEGLED1C Pin=R4-6
+Added Net: Name=SEGLED1C
+Added Pin To Net: NetName=SEGLED1DP Pin=*1-5
+Added Pin To Net: NetName=SEGLED1DP Pin=R5-5
+Added Net: Name=SEGLED1DP
+Added Pin To Net: NetName=SEGLED1D Pin=*1-2
+Added Pin To Net: NetName=SEGLED1D Pin=R4-5
+Added Net: Name=SEGLED1D
+Added Pin To Net: NetName=SEGLED1E Pin=*1-1
+Added Pin To Net: NetName=SEGLED1E Pin=R5-8
+Added Net: Name=SEGLED1E
+Added Pin To Net: NetName=SEGLED1F Pin=*1-9
+Added Pin To Net: NetName=SEGLED1F Pin=R5-7
+Added Net: Name=SEGLED1F
+Added Pin To Net: NetName=SEGLED1G Pin=*1-10
+Added Pin To Net: NetName=SEGLED1G Pin=R5-6
+Added Net: Name=SEGLED1G
+Added Pin To Net: NetName=SEGLED2A Pin=*2-7
+Added Pin To Net: NetName=SEGLED2A Pin=R10-8
+Added Net: Name=SEGLED2A
+Added Pin To Net: NetName=SEGLED2B Pin=*2-6
+Added Pin To Net: NetName=SEGLED2B Pin=R10-7
+Added Net: Name=SEGLED2B
+Added Pin To Net: NetName=SEGLED2C Pin=*2-4
+Added Pin To Net: NetName=SEGLED2C Pin=R10-6
+Added Net: Name=SEGLED2C
+Added Pin To Net: NetName=SEGLED2DP Pin=*2-5
+Added Pin To Net: NetName=SEGLED2DP Pin=R11-5
+Added Net: Name=SEGLED2DP
+Added Pin To Net: NetName=SEGLED2D Pin=*2-2
+Added Pin To Net: NetName=SEGLED2D Pin=R10-5
+Added Net: Name=SEGLED2D
+Added Pin To Net: NetName=SEGLED2E Pin=*2-1
+Added Pin To Net: NetName=SEGLED2E Pin=R11-8
+Added Net: Name=SEGLED2E
+Added Pin To Net: NetName=SEGLED2F Pin=*2-9
+Added Pin To Net: NetName=SEGLED2F Pin=R11-7
+Added Net: Name=SEGLED2F
+Added Pin To Net: NetName=SEGLED2G Pin=*2-10
+Added Pin To Net: NetName=SEGLED2G Pin=R11-6
+Added Net: Name=SEGLED2G
+Added Pin To Net: NetName=SEGLED3A Pin=*3-7
+Added Pin To Net: NetName=SEGLED3A Pin=R15-8
+Added Net: Name=SEGLED3A
+Added Pin To Net: NetName=SEGLED3B Pin=*3-6
+Added Pin To Net: NetName=SEGLED3B Pin=R15-7
+Added Net: Name=SEGLED3B
+Added Pin To Net: NetName=SEGLED3C Pin=*3-4
+Added Pin To Net: NetName=SEGLED3C Pin=R15-6
+Added Net: Name=SEGLED3C
+Added Pin To Net: NetName=SEGLED3DP Pin=*3-5
+Added Pin To Net: NetName=SEGLED3DP Pin=R16-5
+Added Net: Name=SEGLED3DP
+Added Pin To Net: NetName=SEGLED3D Pin=*3-2
+Added Pin To Net: NetName=SEGLED3D Pin=R15-5
+Added Net: Name=SEGLED3D
+Added Pin To Net: NetName=SEGLED3E Pin=*3-1
+Added Pin To Net: NetName=SEGLED3E Pin=R16-8
+Added Net: Name=SEGLED3E
+Added Pin To Net: NetName=SEGLED3F Pin=*3-9
+Added Pin To Net: NetName=SEGLED3F Pin=R16-7
+Added Net: Name=SEGLED3F
+Added Pin To Net: NetName=SEGLED3G Pin=*3-10
+Added Pin To Net: NetName=SEGLED3G Pin=R16-6
+Added Net: Name=SEGLED3G
+Added Class: Name=GE3.0

@@ -1,0 +1,66 @@
+Altium Designer Pick and Place Locations
+D:\Altium\Documents\GE3.0\Project Outputs for GE3.0\Pick Place for GE3.0.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       15/08/23
+Time:       13:05
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"TRML3P","J6","TopLayer","TRML3P","83.5000mm","18.5000mm","270","3P接线端子直针"
+"RELAY","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","41.7004mm","33.4966mm","360",""
+"R7","1k","TopLayer","0603R","41.7400mm","31.0000mm","180","Resistor"
+"U4","74HC595D,118","BottomLayer","FP-SOT109-1-IPC_C","32.4509mm","18.0550mm","180","IC SHIFT REGISTER 8BIT 16SOIC"
+"U3","SP3485","TopLayer","SP3485","71.0000mm","23.0000mm","270",""
+"U2","74HC595D,118","BottomLayer","FP-SOT109-1-IPC_C","18.9509mm","18.0550mm","180","IC SHIFT REGISTER 8BIT 16SOIC"
+"U1","74HC595D,118","BottomLayer","FP-SOT109-1-IPC_C","5.4509mm","18.0550mm","180","IC SHIFT REGISTER 8BIT 16SOIC"
+"R16","470","BottomLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","37.5000mm","16.9999mm","90",""
+"R15","470","BottomLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","37.5000mm","21.2000mm","90",""
+"R14","360","TopLayer","0603R","75.0000mm","16.2400mm","90","Resistor"
+"R13","120","TopLayer","0603R","77.5000mm","21.7400mm","90","Resistor"
+"R12","360","TopLayer","0603R","77.5000mm","16.2400mm","270","Resistor"
+"R11","470","BottomLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","23.9999mm","17.0001mm","90",""
+"R10","470","BottomLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","24.0000mm","21.2001mm","90",""
+"R9","1k","TopLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","66.4001mm","38.4000mm","360",""
+"R8","1k","TopLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","60.8001mm","38.4000mm","0",""
+"R6","1k","TopLayer","0603R","68.5500mm","11.3000mm","0","Resistor"
+"R5","470","BottomLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","10.5000mm","17.0000mm","90",""
+"R4","470","BottomLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","10.5000mm","21.2000mm","90",""
+"R3","1k","TopLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","55.3001mm","38.4000mm","0",""
+"R2","1k","TopLayer","RES-ARRAY-SMD_0603-8P-L3.2-W1.6-BL","49.8001mm","38.4000mm","0",""
+"R1","1k","TopLayer","0603R","60.0450mm","11.3650mm","0","Resistor"
+"Q1","S8550","TopLayer","SOT-23-3_L2.9-W1.6-P1.90-LS2.8-BR","37.0000mm","34.5000mm","180","PNP"
+"LED15","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","86.3034mm","28.7004mm","90",""
+"LED14","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","83.8034mm","28.7004mm","90",""
+"LED13","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","81.3035mm","28.7004mm","90",""
+"LED12","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","78.8034mm","28.7004mm","90",""
+"LED11","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","76.3034mm","28.7004mm","90",""
+"LED10","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","73.8034mm","28.7004mm","90",""
+"LED9","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","71.3034mm","28.7004mm","90",""
+"LED8","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","68.8035mm","28.7004mm","90",""
+"5V","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","65.0499mm","11.3000mm","360",""
+"LED7","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","66.3034mm","28.7004mm","90",""
+"LED6","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","63.8034mm","28.7004mm","90",""
+"LED5","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","61.3034mm","28.7004mm","90",""
+"LED4","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","58.8034mm","28.7004mm","90",""
+"LED3","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","56.3035mm","28.7004mm","90",""
+"LED2","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","53.8034mm","28.7004mm","90",""
+"LED1","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","51.3034mm","28.7004mm","90",""
+"LED0","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","48.8034mm","28.7004mm","90",""
+"3V3","NCD0603R1_C84263","TopLayer","LED0603-RD_RED","56.4854mm","11.3616mm","360",""
+"K1","HF46F","TopLayer","RELAY-TH_HF46F-5-HS1T","23.0000mm","32.6000mm","180","5V一路继电器宏发C5252509
+https://item.szlcsc.com/5969785.html"
+"J5","HDR2X30","BottomLayer","HDR2x30","45.0000mm","44.3200mm","0",""
+"J4","HDR2X30","BottomLayer","HDR2x30","45.0000mm","3.6800mm","360",""
+"J3","HDR1X16","TopLayer","HDR1X16","66.2700mm","8.5000mm","180",""
+"J2","HDR1X4","TopLayer","HDR1X4","37.1900mm","39.5000mm","180","Connector"
+"J1","Terminal 2P","TopLayer","TRML2P","5.5000mm","35.0000mm","270","2P接线端子"
+"D1","1N4148W","TopLayer","SOD-123_L2.8-W1.8-LS3.7-RD","37.0000mm","30.0000mm","180","二极管"
+"C1","100nF","TopLayer","0805C","72.0000mm","16.0000mm","90","电容"
+"*3","7SEG","TopLayer","SM410561N","34.5400mm","18.3800mm","0","一位数码管"
+"*2","7SEG","TopLayer","SM410561N","20.9600mm","18.3800mm","0","一位数码管"
+"*1","7SEG","TopLayer","SM410561N","7.4200mm","18.3800mm","0","一位数码管"

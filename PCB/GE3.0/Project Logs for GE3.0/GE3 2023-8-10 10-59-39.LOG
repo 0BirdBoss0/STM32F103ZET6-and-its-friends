@@ -1,0 +1,12 @@
+Added Component: Designator=TRML3P(TRML3P)
+Added Pin To Net: NetName=GND Pin=TRML3P-1
+Added Pin To Net: NetName=NetR12_1 Pin=TRML3P-2
+Added Pin To Net: NetName=NetR13_2 Pin=TRML3P-3
+Added Member To Class: ClassName=GE3.0 Member=Component LED5 NCD0603R1_C84263
+Added Member To Class: ClassName=GE3.0 Member=Component LED11 NCD0603R1_C84263
+Added Member To Class: ClassName=GE3.0 Member=Component LED12 NCD0603R1_C84263
+Added Member To Class: ClassName=GE3.0 Member=Component LED14 NCD0603R1_C84263
+Added Member To Class: ClassName=GE3.0 Member=Component LED15 NCD0603R1_C84263
+Added Member To Class: ClassName=GE3.0 Member=Component R7 1k
+Added Member To Class: ClassName=GE3.0 Member=Component TRML3P J6
+Added Room: Name=GE3.0
