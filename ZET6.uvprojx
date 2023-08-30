@@ -680,36 +680,6 @@
           <GroupName>Hardware</GroupName>
           <Files>
             <File>
-              <FileName>Key.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Hardware\Key.c</FilePath>
-            </File>
-            <File>
-              <FileName>Key.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Hardware\Key.h</FilePath>
-            </File>
-            <File>
-              <FileName>LED.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Hardware\LED.c</FilePath>
-            </File>
-            <File>
-              <FileName>LED.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Hardware\LED.h</FilePath>
-            </File>
-            <File>
-              <FileName>SevenSeg.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Hardware\SevenSeg.h</FilePath>
-            </File>
-            <File>
-              <FileName>SevenSeg.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Hardware\SevenSeg.c</FilePath>
-            </File>
-            <File>
               <FileName>OLED.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Hardware\OLED.c</FilePath>
@@ -725,6 +695,36 @@
               <FilePath>.\Hardware\OLED_Font.h</FilePath>
             </File>
             <File>
+              <FileName>LED2.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\LED2.c</FilePath>
+            </File>
+            <File>
+              <FileName>LED2.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\LED2.h</FilePath>
+            </File>
+            <File>
+              <FileName>SevenSeg2.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\SevenSeg2.c</FilePath>
+            </File>
+            <File>
+              <FileName>SevenSeg2.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\SevenSeg2.h</FilePath>
+            </File>
+            <File>
+              <FileName>Key2.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\Key2.c</FilePath>
+            </File>
+            <File>
+              <FileName>Key2.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\Key2.h</FilePath>
+            </File>
+            <File>
               <FileName>Serial.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Hardware\Serial.c</FilePath>
@@ -733,6 +733,16 @@
               <FileName>Serial.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Hardware\Serial.h</FilePath>
+            </File>
+            <File>
+              <FileName>Relay.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\Relay.c</FilePath>
+            </File>
+            <File>
+              <FileName>Relay.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\Relay.h</FilePath>
             </File>
           </Files>
         </Group>

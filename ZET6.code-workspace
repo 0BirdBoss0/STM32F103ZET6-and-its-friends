@@ -4,6 +4,13 @@
             "path": "."
         }
     ],
-    "settings": {},
+    "settings": {
+        "files.associations": {
+            "key2.h": "c",
+            "sevenseg2.h": "c",
+            "control.h": "c",
+            "led.h": "c"
+        }
+    },
     "extensions": {}
 }

@@ -3,6 +3,16 @@
 
 #include <stdio.h>
 
+
+/************************
+VCC---------------->  3V3DOWN供电
+RO----------------->  PA3 (PC4)
+#RE---------------->  PG3 (PG2)
+RE----------------->  PG3 (PG2)
+DI----------------->  PA2 (PA1)
+GND---------------->  接地
+**************************/
+
 void Serial_Init(void);
 void Serial_SendByte(uint8_t Byte);
 void Serial_SendArray(uint8_t *Array, uint16_t Length);

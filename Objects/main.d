@@ -31,9 +31,10 @@
 .\objects\main.o: D:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
 .\objects\main.o: D:\Keil\ARM\ARM_Compiler_5.06u7\Bin\..\include\string.h
 .\objects\main.o: .\System\Delay.h
-.\objects\main.o: .\Hardware\LED.h
-.\objects\main.o: .\Hardware\Key.h
-.\objects\main.o: .\Hardware\SevenSeg.h
+.\objects\main.o: .\Hardware\LED2.h
+.\objects\main.o: .\Hardware\Key2.h
+.\objects\main.o: .\Hardware\SevenSeg2.h
 .\objects\main.o: .\System\Timer.h
 .\objects\main.o: .\Hardware\OLED.h
 .\objects\main.o: .\Hardware\Serial.h
+.\objects\main.o: .\Hardware\Relay.h
